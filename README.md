@@ -16,7 +16,7 @@ Bolded songs are potential chopping block candidates.
 * **Eddie Money - Think I’m In Love**
 * Michael Jackson - P.Y.T.
 * Billy Ocean - Carribbean Queen (No More Love on the Run)
-* **Phil Collins - Easy Lover**
+* **Philip Bailey & Phil Collins - Easy Lover**
 * Lionel Richie - Dancing On The Ceiling
 * Chaka Khan - Ain’t Nobody
 * Phil Collins - Don’t Lose My Number
