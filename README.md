@@ -13,20 +13,20 @@ Bolded songs are potential chopping block candidates.
 * Eddie Money - Take Me Home Tonight
 * The Human League - Don’t You Want Me
 * Hall & Oates - You Make My Drums
-* **Eddie Money - Think I’m In Love**
+* Eddie Money - Think I’m In Love
 * Michael Jackson - P.Y.T.
 * Billy Ocean - Carribbean Queen (No More Love on the Run)
-* **Philip Bailey & Phil Collins - Easy Lover**
+* Philip Bailey & Phil Collins - Easy Lover
 * Lionel Richie - Dancing On The Ceiling
 * Chaka Khan - Ain’t Nobody
-* Phil Collins - Don’t Lose My Number
+* **Phil Collins - Don’t Lose My Number**
 * Hall & Oates - Rich Girl
 * Fleetwood Mac - Everywhere
 * Dan Hartman - I Can Dream About You
 * Rick Springfield - Jessie’s Girl
 * The Cars - Just What I Needed
 * Blue Oyster Cult - Burnin’ For You
-* **Scandal - The Warrior**
+* Scandal - The Warrior
 * Eddie Money - Two Tickets To Paradise
 * Tom Petty and the Heartbreakers - Don’t Do Me Like That
 * Rod Stewart - Young Turks
