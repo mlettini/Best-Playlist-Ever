@@ -54,6 +54,7 @@ Bolded songs are potential chopping block candidates.
 * Wang Chung - Dance Hall Days
 * Pet Shop Boys - West End Girls
 * Erasure - A Little Respect
+* When In Rome - The Promise
 * Journey - Girl Can’t Help It
 * The Brothers Johnson - Strawberry Letter 23
 * Earth, Wind & Fire - September
