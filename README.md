@@ -1,14 +1,10 @@
-Listen
-------
+**[♫ Listen on Spotify](https://play.spotify.com/user/mlettini/playlist/1BPWZYTfqbOKwC8Vigh8EI)**
 
-* **[Rdio](http://rd.io/x/QFiyL0fnyw/)**
-* **[Spotify](https://open.spotify.com/user/trashrockx/playlist/22jVuIAxzNCVTxHyYMj5qJ)**
+--
 
-The Playlist
-------------
+### The Playlist
 
-Now accepting pull requests and submissions, with an internal vetting process.<br>
-Bolded songs are potential chopping block candidates.
+Now accepting pull requests and submissions, with an internal vetting process.
 
 * Eddie Money - Take Me Home Tonight
 * The Human League - Don’t You Want Me
@@ -19,7 +15,7 @@ Bolded songs are potential chopping block candidates.
 * Philip Bailey & Phil Collins - Easy Lover
 * Lionel Richie - Dancing On The Ceiling
 * Chaka Khan - Ain’t Nobody
-* **Phil Collins - Don’t Lose My Number**
+* Phil Collins - Don’t Lose My Number
 * Hall & Oates - Rich Girl
 * Fleetwood Mac - Everywhere
 * Dan Hartman - I Can Dream About You
