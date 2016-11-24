@@ -58,7 +58,6 @@ Now accepting pull requests and submissions, with an internal vetting process.
 * INXS - New Sensation
 * When In Rome - The Promise
 * Journey - Girl Can’t Help It
-* The Brothers Johnson - Strawberry Letter 23
 * Earth, Wind & Fire - September
 * Looking Glass - Brandy
 * Whitney Houston - How Will I Know
