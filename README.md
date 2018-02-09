@@ -12,7 +12,7 @@ Now accepting pull requests and submissions, with an internal vetting process.
 * Eddie Money - Think I’m In Love
 * Michael Jackson - P.Y.T.
 * Billy Ocean - Caribbean Queen (No More Love on the Run)
-* Go West - The King of Wishful Thinking
+* Christopher Cross - Ride Like The Wind
 * Philip Bailey & Phil Collins - Easy Lover
 * Lionel Richie - Dancing On The Ceiling
 * Chaka Khan - Ain’t Nobody
@@ -23,13 +23,16 @@ Now accepting pull requests and submissions, with an internal vetting process.
 * Dan Hartman - I Can Dream About You
 * Rick Springfield - Jessie’s Girl
 * The Cars - Just What I Needed
+* 38 Special - Caught Up In You
 * The Outfield - Your Love
 * Blue Oyster Cult - Burnin’ For You
+* Loverboy - Working For The Weekend
 * Scandal - The Warrior
 * Eddie Money - Two Tickets To Paradise
 * Tom Petty and the Heartbreakers - Don’t Do Me Like That
 * Rod Stewart - Young Turks
 * John Mellencamp - Hurts So Good
+* The J. Geils Band - Centerfold
 * Fine Young Cannibals - She Drives Me Crazy
 * Pat Benatar - Love Is A Battlefield
 * Stevie Nicks - Edge Of Seventeen
@@ -44,7 +47,6 @@ Now accepting pull requests and submissions, with an internal vetting process.
 * Lionel Richie - All Night Long (All Night)
 * The Whispers - Rock Steady
 * Phil Collins - In The Air Tonight
-* Player - Baby Come Back
 * Toto - Africa
 * Michael Jackson - Human Nature
 * Fleetwood Mac - Dreams
@@ -55,10 +57,12 @@ Now accepting pull requests and submissions, with an internal vetting process.
 * Wang Chung - Dance Hall Days
 * Pet Shop Boys - West End Girls
 * Erasure - A Little Respect
+* Prince - I Would Die 4 U
 * INXS - New Sensation
 * When In Rome - The Promise
 * Journey - Girl Can’t Help It
 * Earth, Wind & Fire - September
 * Looking Glass - Brandy
+* Prince - I Wanna Be Your Lover
 * Whitney Houston - How Will I Know
 * Simple Minds - Don’t You (Forget About Me)
